@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Nothing here yet, feel free to send a PR. 😁
+
 <!--
 **coderhs/coderhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
